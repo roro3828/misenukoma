@@ -1,0 +1,1 @@
+execute as @a at @s run function plant:photosynthesis/main
